@@ -231,3 +231,48 @@ URL: https://ceres.mcu.es/pages/Main?inventary=CE18955&museum=58
 FUENTE: CER.es / Museo Nacional de Antropología
 FECHA: 11 May 2026
 ===FIN===
+
+===ITEM===
+TITULO: David Serra en Paris Tribal 2026: jinete Syonfolo/Senufo, Costa de Marfil
+CATEGORIA: Feria
+RESUMEN: David Serra (Barcelona) presenta en Paris Tribal 2026 (12-17 may) jinete Syonfolo/Senufo (C. Marfil, 38cm, ppio.s.XX). Ex-col. Johann Levy, Francia; col. privada EE.UU.
+URL: https://davidserra.es/en/paris-tribal-2026/
+FUENTE: David Serra Fine Tribal Art / Paris Tribal
+FECHA: 12 May 2026
+===FIN===
+
+===ITEM===
+TITULO: Montagut en Paris Tribal 2026: máscara Bobo, Burkina Faso, 58 cm
+CATEGORIA: Feria
+RESUMEN: Montagut Gallery (Barcelona) presenta en Paris Tribal 2026 (12-17 may) máscara Bobo (Burkina Faso, 58cm). Ex-col. Schmidt Luprian (Munich), Herzog (Alemania), Castellano (París).
+URL: https://paristribal.com/en/exposants_pt/guilhem-montagut/
+FUENTE: Montagut Gallery / Paris Tribal
+FECHA: 12 May 2026
+===FIN===
+
+===ITEM===
+TITULO: BRUNEAF Verano 2026 — 3-7 junio, barrio del Sablon, Bruselas
+CATEGORIA: Feria
+RESUMEN: BRUNEAF edición verano 2026 confirmada: 3 al 7 de junio, Sablon, Bruselas. Máscaras, esculturas y objetos rituales africanos, indonesios, amerindios y oceánicos. Entrada libre.
+URL: https://www.artfairmag.com/bruneaf/
+FUENTE: BRUNEAF / artfairmag.com
+FECHA: 03 Jun 2026
+===FIN===
+
+===ITEM===
+TITULO: MNA Madrid: "Hotel del Artefacto Saqueado" — restitución África central
+CATEGORIA: Restitución
+RESUMEN: Agnes Essonti instala en el MNA Madrid (hasta 24 may 2026) obra sobre restitución de piezas etnológicas con objetos del África central de la colección permanente del museo.
+URL: https://www.esmadrid.com/en/whats-on/hotel-plundered-artefact-national-anthropology-museum
+FUENTE: Museo Nacional de Antropología / esmadrid.com
+FECHA: 06 Feb 2026
+===FIN===
+
+===ITEM===
+TITULO: Museo Arte Africano Arellano Alonso (Valladolid): expo hasta 1 jun 2026
+CATEGORIA: Exposición
+RESUMEN: El Museo de Arte Africano Arellano Alonso (Valladolid) alberga 130+ terracotas africanas. Exp. "Miradas compartidas en el africano" (8 may–1 jun, El Barco de la Esgueva).
+URL: https://www.fundacionjimenezarellano.com/2026/05/08/exposicion-temporal-miradas-compartidas-en-el-africano-sede-de-el-barco-de-la-esgueva/
+FUENTE: Fundación Jiménez Arellano / Museo Arte Africano Arellano Alonso
+FECHA: 08 May 2026
+===FIN===
