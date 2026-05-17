@@ -294,3 +294,75 @@ URL: https://www.parcours-des-mondes.com/en/page/westafricangoldornamentsen.html
 FUENTE: David Serra Fine Tribal Art / Parcours des Mondes
 FECHA: 08 Sep 2026
 ===FIN===
+
+===ITEM===
+TITULO: Máscara Bete-Guro "Maestro de Gonaté", Costa de Marfil — Sotheby's jun 26
+CATEGORIA: Subasta
+RESUMEN: Máscara Bete-Guro atribuida al Maestro de Gonaté (Costa de Marfil). Est. $100.000–150.000. Venta "Art of Africa, Oceania & Americas", Sotheby's NY, 18 jun 2026.
+URL: https://www.sothebys.com/en/departments/african-oceanic-art
+FUENTE: Sotheby's
+FECHA: 18 Jun 2026
+===FIN===
+
+===ITEM===
+TITULO: Figura ancestral Pre-Bembe/Buyu, RDC — Sotheby's Nueva York, jun 2026
+CATEGORIA: Subasta
+RESUMEN: Figura de antepasado Pre-Bembe o Buyu (RDC), lote 5. Est. $250.000–350.000. Sotheby's, subasta "Art of Africa, Oceania & Americas", Nueva York, 18 jun 2026.
+URL: https://www.sothebys.com/en/departments/african-oceanic-art
+FUENTE: Sotheby's
+FECHA: 18 Jun 2026
+===FIN===
+
+===ITEM===
+TITULO: Cabeza relicario Fang, Gabón — Christie's París "Arts d'Afrique", mar 2026
+CATEGORIA: Subasta
+RESUMEN: Christie's París (26 mar 2026) ofreció una cabeza relicaria Fang (Gabón, s.XIX) entre 27 lotes de arte africano y oceánico, con piezas del Congo, Costa de Marfil y Gabón.
+URL: https://www.christies.com/en/auction/arts-d-afrique-et-d-oc-anie-23937-par/overview
+FUENTE: Christie's París
+FECHA: 26 Mar 2026
+===FIN===
+
+===ITEM===
+TITULO: Claes Gallery 2026 — Kifwebe Songye, Nkisi Kongo/Yombe y figuras Buyu
+CATEGORIA: Galería
+RESUMEN: Claes Gallery (Bruselas) destaca en 2026 máscara Kifwebe Songye (RDC), nkisi Kongo/Yombe, figuras Buyu y Chamba y arpas Mangbetu. Arte clásico del África central.
+URL: https://www.didierclaes.com/
+FUENTE: Claes Gallery
+FECHA: 17 May 2026
+===FIN===
+
+===ITEM===
+TITULO: Francia devuelve el tambor Djidji Ayôkwé a Costa de Marfil, mar 2026
+CATEGORIA: Restitución
+RESUMEN: Francia devolvió el 13 mar 2026 el tambor sagrado Djidji Ayôkwé (3,3m, 430 kg) de los Atchan de Abiyán, confiscado en 1916. Primera de las 148 piezas africanas reclamadas por Costa de Marfil.
+URL: https://www.france24.com/en/africa/20260220-france-repatriates-stolen-colonial-era-talking-drum-to-ivory-coast
+FUENTE: France 24 / UNESCO
+FECHA: 13 Mar 2026
+===FIN===
+
+===ITEM===
+TITULO: Alemania crea Consejo Nacional de Restituciones de arte colonial africano
+CATEGORIA: Restitución
+RESUMEN: Alemania anunció el 31 mar 2026 un Consejo Nacional de Restituciones que coordina todos los museos públicos federales y de los 16 Länder para devolver patrimonio colonial a África y otros países.
+URL: https://www.theartnewspaper.com/2026/03/31/germany-to-create-council-to-oversee-restitution-of-colonial-era-acquisitions
+FUENTE: The Art Newspaper / Euronews
+FECHA: 31 Mar 2026
+===FIN===
+
+===ITEM===
+TITULO: Museo Rietberg Zúrich transfiere 11 Bronces de Benín a Nigeria, mar 2026
+CATEGORIA: Restitución
+RESUMEN: El Museo Rietberg de Zúrich transfirió la propiedad de 11 bronces de Benín (saqueados en 1897) a Nigeria en marzo 2026, con una cabeza conmemorativa (c.1850) y un colmillo de marfil del s.XVIII.
+URL: https://www.theartnewspaper.com/2026/03/20/zurichs-museum-rietberg-transfers-11-benin-bronzes-to-nigerian-government
+FUENTE: The Art Newspaper / Artdependence
+FECHA: 20 Mar 2026
+===FIN===
+
+===ITEM===
+TITULO: Cambridge transfiere 116 Bronces de Benín a Nigeria, febrero 2026
+CATEGORIA: Restitución
+RESUMEN: La Universidad de Cambridge transfirió la propiedad de 116 bronces de Benín saqueados en 1897 al NCMM nigeriano en febrero 2026; mayor transferencia británica de piezas de Benín hasta la fecha.
+URL: https://www.theartnewspaper.com/2026/02/09/cambridge-university-return-100-benin-bronzes-nigeria
+FUENTE: The Art Newspaper / Museums Association
+FECHA: 09 Feb 2026
+===FIN===
