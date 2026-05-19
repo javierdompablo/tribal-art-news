@@ -251,12 +251,12 @@ FECHA: 12 May 2026
 ===FIN===
 
 ===ITEM===
-TITULO: BRUNEAF Verano 2026 — 3-7 junio, barrio del Sablon, Bruselas
+TITULO: BRUNEAF 2026 — 3-6 septiembre, barrio del Sablon, Bruselas
 CATEGORIA: Feria
-RESUMEN: BRUNEAF edición verano 2026 confirmada: 3 al 7 de junio, Sablon, Bruselas. Máscaras, esculturas y objetos rituales africanos, indonesios, amerindios y oceánicos. Entrada libre.
+RESUMEN: BRUNEAF 2026 confirmado para 3-6 de septiembre, Sablon, Bruselas. Máscaras, esculturas y objetos rituales africanos, indonesios, amerindios y oceánicos. Entrada libre.
 URL: https://www.artfairmag.com/bruneaf/
 FUENTE: BRUNEAF / artfairmag.com
-FECHA: 03 Jun 2026
+FECHA: 03 Sep 2026
 ===FIN===
 
 ===ITEM===
@@ -404,12 +404,12 @@ FECHA: 17 May 2026
 ===FIN===
 
 ===ITEM===
-TITULO: Lyon & Turnbull "Form Through Time" — arte africano y oceánico, 25 jun 2026
+TITULO: Lyon & Turnbull venta 907 — arte africano y oceánico, 8 jul 2026, Edimburgo
 CATEGORIA: Subasta
-RESUMEN: Lyon & Turnbull celebra el 25 jun 2026 en Londres su subasta bianual "Form Through Time" de arte africano y oceánico con proveniencias documentadas. Catálogo aún no publicado.
-URL: https://www.lyonandturnbull.com/auctions/form-through-time/
+RESUMEN: Lyon & Turnbull celebra el 8 jul 2026 en Edimburgo su venta 907 "Ancient, African & Oceanic Art" con proveniencias documentadas. Puja en directo online. 14:00 BST.
+URL: https://www.lyonandturnbull.com/auctions/auction-calendar
 FUENTE: Lyon & Turnbull
-FECHA: 25 Jun 2026
+FECHA: 08 Jul 2026
 ===FIN===
 
 ===ITEM===
@@ -455,4 +455,13 @@ RESUMEN: Lote 486: figura figurativa Mambila (Nigeria), madera tallada, 33cm. Ar
 URL: https://www.barnebys.es/blog/subasta-de-mayo-de-duran-arte-y-subastas
 FUENTE: Durán Arte y Subastas / Barnebys
 FECHA: 24 May 2026
+===FIN===
+
+===ITEM===
+TITULO: Casa África Madrid — "Arte y Repatriación" con Elvira Dyangani Ose, 25 may
+CATEGORIA: Restitución
+RESUMEN: Elvira Dyangani Ose imparte "Art and Repatriation" en el IV Congreso Bridge to Africa (Casa África, Madrid, 25 may 2026). Debate sobre museos, arte colonial y devolución a África.
+URL: https://www.casafrica.es/es/evento/bridge-africa
+FUENTE: Casa África
+FECHA: 25 May 2026
 ===FIN===
