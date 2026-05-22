@@ -501,3 +501,30 @@ URL: https://www.tribal.show/
 FUENTE: Bourgogne Tribal Show
 FECHA: 21 May 2026
 ===FIN===
+
+===ITEM===
+TITULO: Figura Civilización Niger Medio (Mali) — Sotheby's NY, 18 jun 2026
+CATEGORIA: Subasta
+RESUMEN: Figura sentada, Civilización del Níger Medio (Mali), est. $200.000–300.000. Subasta "Art of Africa, Oceania & Americas", Sotheby's Nueva York, 18 junio 2026, 11:00h EDT.
+URL: https://www.sothebys.com/buy/8fbca530-a503-4c32-b6f0-643346b7bf48
+FUENTE: Sotheby's Nueva York
+FECHA: 18 Jun 2026
+===FIN===
+
+===ITEM===
+TITULO: Máscara zoomorfa Baule, Costa de Marfil — Sotheby's NY, 18 jun 2026
+CATEGORIA: Subasta
+RESUMEN: Máscara zoomorfa Baule (Costa de Marfil), est. $10.000–15.000. Subasta "Art of Africa, Oceania & Americas", Sotheby's Nueva York, 18 junio 2026. Forma animal característica del estilo Baule.
+URL: https://www.sothebys.com/buy/8fbca530-a503-4c32-b6f0-643346b7bf48
+FUENTE: Sotheby's Nueva York
+FECHA: 18 Jun 2026
+===FIN===
+
+===ITEM===
+TITULO: Feriarte 2026 — 21-29 noviembre, IFEMA Madrid, arte tribal
+CATEGORIA: Feria
+RESUMEN: Feriarte 2026 celebra su 49ª edición del 21 al 29 de noviembre en IFEMA Madrid. La feria incluye arte tribal africano, precolombino y oriental entre sus categorías. Galería Montagut participante habitual.
+URL: https://www.ifema.es/en/feriarte
+FUENTE: IFEMA / Feriarte
+FECHA: 21 Nov 2026
+===FIN===
