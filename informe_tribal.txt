@@ -672,3 +672,21 @@ URL: https://www.lempertz.com/en/auctions.html
 FUENTE: Lempertz
 FECHA: 01 Jul 2026
 ===FIN===
+
+===ITEM===
+TITULO: Tribal Art Fair Amsterdam 2026 — 23ª edición, 29 oct–1 nov, De Duif
+CATEGORIA: Feria
+RESUMEN: La Tribal Art Fair de Ámsterdam celebra su 23ª edición en De Duif (Prinsengracht 756) con vernisaje el 29 oct. y apertura pública 30 oct.–1 nov. 20 galerías internacionales de arte africano, oceánico y amerindio.
+URL: https://tribalartfair.nl/
+FUENTE: Tribal Art Fair Amsterdam
+FECHA: 29 Oct 2026
+===FIN===
+
+===ITEM===
+TITULO: Parcours des Mondes 2026 — Alexandre & Patric Claes e Ilie & Co, nuevas galerías
+CATEGORIA: Feria
+RESUMEN: Parcours des Mondes 2026 (8-13 sep., París) incorpora al Showcase a Alexandre & Patric Claes (Bélgica, arte africano clásico) e Ilie & Co (UK, arte africano), ampliando la oferta de arte tribal africano de la feria.
+URL: https://www.parcours-des-mondes.com/en/categorie/showcase.html
+FUENTE: Parcours des Mondes
+FECHA: 08 Sep 2026
+===FIN===
