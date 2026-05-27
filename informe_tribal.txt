@@ -690,3 +690,48 @@ URL: https://www.parcours-des-mondes.com/en/categorie/showcase.html
 FUENTE: Parcours des Mondes
 FECHA: 08 Sep 2026
 ===FIN===
+
+===ITEM===
+TITULO: Col. Feinsilber: Siège Kuba y reposacabezas Luba — Sotheby's París 4 jun
+CATEGORIA: Subasta
+RESUMEN: Venta online Sotheby's París (28 may–4 jun 2026) col. Fred Feinsilber: siège Kuba (RDC, lote 191, est. €6.000–8.000) y reposacabezas Luba (lote 193, est. €2.000–3.000). Puja accesible online.
+URL: https://www.sothebys.com/en/departments/african-oceanic-art
+FUENTE: Sotheby's París / Col. Feinsilber
+FECHA: 28 May 2026
+===FIN===
+
+===ITEM===
+TITULO: Máscara Tsaye pueblo Teke (Congo) — venta directa Setdart, may 2026
+CATEGORIA: Subasta
+RESUMEN: Máscara Tsaye del pueblo Teke (Congo), disponible en venta directa Setdart (may 2026). Est. €1.200–1.500. Pieza etnográfica de la cuenca del Congo de compra inmediata en plataforma española.
+URL: https://www.setdart.com/subasta/catalogo/buy/african-art/newlang=english/
+FUENTE: Setdart
+FECHA: 27 May 2026
+===FIN===
+
+===ITEM===
+TITULO: Copa ritual Bangwa füngkaebo (Camerún) — venta directa Setdart, may 2026
+CATEGORIA: Subasta
+RESUMEN: Copa füngkaebo del pueblo Bangwa (Camerún, Grassfields), disponible en venta directa Setdart (may 2026). Est. €800–1.000. Objeto de uso ritual de los Grassfields cameruneses.
+URL: https://www.setdart.com/subasta/catalogo/buy/african-art/newlang=english/
+FUENTE: Setdart
+FECHA: 27 May 2026
+===FIN===
+
+===ITEM===
+TITULO: Civilisations Brussels 2026 — Schoffel, De Grunne y Congo esp., 3-7 jun
+CATEGORIA: Feria
+RESUMEN: Civilisations Brussels 2026 (3-7 jun, Sablon) confirma 19 galerías: Serge Schoffel Art Premier, Bernard de Grunne, Lenaerts & Felix (Congo) y Mestdagh. Reducción respecto a las 25 del año anterior.
+URL: https://civilisations.brussels/exhibitors/
+FUENTE: Civilisations Brussels
+FECHA: 27 May 2026
+===FIN===
+
+===ITEM===
+TITULO: Paris Tribal 2026 — Máscara Nafana €8.000 (Bacquart) y Dogon (Entwistle)
+CATEGORIA: Feria
+RESUMEN: Paris Tribal 2026: máscara Nafana (Costa de Marfil) €8.000 via J.B. Bacquart, candado granero Dogon (Mali, s.XIX) €10.000 via Entwistle. Mercado con "optimismo medido" entre los 34 expositores.
+URL: https://www.artnewspaper.fr/2026/05/11/les-belles-decouvertes-de-paris-tribal
+FUENTE: The Art Newspaper France / Paris Tribal
+FECHA: 11 May 2026
+===FIN===
