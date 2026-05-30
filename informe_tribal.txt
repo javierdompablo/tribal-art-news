@@ -735,3 +735,66 @@ URL: https://www.artnewspaper.fr/2026/05/11/les-belles-decouvertes-de-paris-trib
 FUENTE: The Art Newspaper France / Paris Tribal
 FECHA: 11 May 2026
 ===FIN===
+
+===ITEM===
+TITULO: Arte tribal africano: Col. Pérez Latorre en Diputación de Huesca
+CATEGORIA: Exposición
+RESUMEN: La Diputación de Huesca expuso 100 obras del arquitecto J.M. Pérez Latorre: figuras Nok, Djenné, Lobi, máscaras lwalwa y mumuye. Primera salida pública, comisariada por Ángel Martín.
+URL: https://www.dphuesca.es/noticias/-/asset_publisher/uO4NWVaRiP3E/content/id/20526217
+FUENTE: Diputación Provincial de Huesca
+FECHA: 28 Feb 2025
+===FIN===
+
+===ITEM===
+TITULO: Dalton Somaré en BRAFA 2026 con esculturas africanas clásicas
+CATEGORIA: Feria
+RESUMEN: Dalton Somaré (stand 007, BRAFA 2026, Bruselas, 25 ene–1 feb) presentó esculturas africanas clásicas: estatuas de madera, máscaras y piezas Tellem seleccionadas por calidad y autenticidad.
+URL: https://www.daltonsomare.com/en/brafa-2026-african-art-brussels/
+FUENTE: Dalton Somaré / BRAFA 2026
+FECHA: 25 Ene 2026
+===FIN===
+
+===ITEM===
+TITULO: Sotheby's París dic. 2025: Fang ex-col. Arman y Nsapo-Nsapo Timmermans
+CATEGORIA: Subasta
+RESUMEN: Sotheby's París (3-10 dic. 2025) subastó cabeza relicario Fang (ex-col. artista Arman), maternidad Nsapo-Nsapo (col. Timmermans) y col. "Miniature Worlds" de Danis.
+URL: https://www.sothebys.com/en/auction-catalogue/2025/arts-dafrique-doceanie-et-des-ameriques-pf2508
+FUENTE: Sotheby's París
+FECHA: 03 Dic 2025
+===FIN===
+
+===ITEM===
+TITULO: Lucas Ratton: 121 Peignes d'Afrique de l'Ouest — Parcours des Mondes 2025
+CATEGORIA: Feria
+RESUMEN: Lucas Ratton (París) presentó en Parcours 2025 la colección más grande de peines tallados del África Occidental conocida: 121 piezas Ashanti, Baoulé, Gouro, Dan. Exp. hasta 11 oct. 2025.
+URL: https://www.lucasratton.com/peignesafriqueouest
+FUENTE: Lucas Ratton / Parcours des Mondes
+FECHA: 09 Sep 2025
+===FIN===
+
+===ITEM===
+TITULO: Jo de Buck "Things with Faces": arte Bembe y Kuba — Parcours 2025
+CATEGORIA: Feria
+RESUMEN: El dealer belga Jo de Buck mostró en Parcours des Mondes 2025 una máscara Bembe (E. Congo), pipa de noble Kuba Bushoong (Kasai, RDC) y esculturas Kuba de gran carga ritual.
+URL: https://elegancesparisiennes.com/2025/09/16/a-wandering-through-parcours-des-mondes-2025/
+FUENTE: Jo de Buck / Parcours des Mondes
+FECHA: 09 Sep 2025
+===FIN===
+
+===ITEM===
+TITULO: "Au Cœur de l'Afrique Classique" — Galerie Gradiva, Parcours 2025
+CATEGORIA: Exposición
+RESUMEN: Jacques Germain (Galerie Gradiva, Quai Voltaire, París) presentó 60 piezas de arte africano clásico, debatiendo si ese concepto es una construcción eurocéntrica del s. XX.
+URL: https://www.parcours-des-mondes.com/page/au-c-ur-de-l-afrique-classique.html
+FUENTE: Galerie Gradiva / Parcours des Mondes
+FECHA: 09 Sep 2025
+===FIN===
+
+===ITEM===
+TITULO: Claes Gallery: Figura ancestral Buyu ex-jefe Kimano II — RD Congo, s.XIX
+CATEGORIA: Galería
+RESUMEN: Figura Buyu/Boyo (RDC, s.XIX, 59cm) fotografiada en 1957 con el Jefe Kimano II de Maniema. Provenance excepcional: De Kun, Conti y Scheller (EE.UU.). Claes Gallery, Bruselas.
+URL: https://www.didierclaes.com/figure-buyu
+FUENTE: Claes Gallery
+FECHA: 30 May 2026
+===FIN===
