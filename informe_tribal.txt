@@ -798,3 +798,21 @@ URL: https://www.didierclaes.com/figure-buyu
 FUENTE: Claes Gallery
 FECHA: 30 May 2026
 ===FIN===
+
+===ITEM===
+TITULO: Lempertz Bruselas subasta 1296 — Arte de África, vernisaje 23 jun 2026
+CATEGORIA: Subasta
+RESUMEN: Lempertz Bruselas celebra el 1 jul. 2026 su subasta de Arte de África, el Pacífico y las Américas (subasta 1296). Vernisaje 23 jun (17-21h); selección previa Colonia 19-20 jun. Catálogo en línea.
+URL: https://www.lempertz.com/en/auctions.html
+FUENTE: Lempertz
+FECHA: 01 Jul 2026
+===FIN===
+
+===ITEM===
+TITULO: Sotheby's Nueva York — 5 piezas africanas con est. $10K–350K, 18 jun 2026
+CATEGORIA: Subasta
+RESUMEN: "Art of Africa, Oceania & Americas" (18 jun, NY): figura Niger Medio Mali $200-300K, figura Pre-Bembe RDC $250-350K, máscara Bete-Guro $100-150K, máscara Baule $10-15K. Puja 11h EDT.
+URL: https://www.sothebys.com/en/digital-catalogues/art-of-africa-oceania-and-the-americas
+FUENTE: Sotheby's Nueva York
+FECHA: 18 Jun 2026
+===FIN===
