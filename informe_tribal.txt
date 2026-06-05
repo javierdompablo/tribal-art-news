@@ -897,3 +897,57 @@ URL: https://www.setdart.com/subasta/catalogo/categories/african-art/newlang=eng
 FUENTE: Setdart Subastas Online
 FECHA: 30 Jun 2026
 ===FIN===
+
+===ITEM===
+TITULO: Africart Madrid — Figura-fetiche Songye "extraordinaria" (RDC, 64 cm)
+CATEGORIA: Galería
+RESUMEN: Africart Madrid presenta figura-fetiche Songye (RDC, madera tallada, 64×16 cm), descrita como "extraordinaria, poderosa y muy antigua". Precio a consultar. Disponible en galería de Madrid.
+URL: https://africartmadrid.es/en/coleccion-articulo/figure-songye-very-old/
+FUENTE: Africart Madrid
+FECHA: 05 Jun 2026
+===FIN===
+
+===ITEM===
+TITULO: Africart Madrid — Figura Tabwa (RDC, madera, H44 cm), 500 €
+CATEGORIA: Galería
+RESUMEN: Africart Madrid (Madrid) ofrece figura Tabwa (RDC, madera, 44×12 cm, 500 €), "muy fina y representativa del arte Tabwa". Disponible en stock. Cultura Tabwa del lago Tanganica.
+URL: https://africartmadrid.es/en/coleccion-articulo/figure-twa/
+FUENTE: Africart Madrid
+FECHA: 05 Jun 2026
+===FIN===
+
+===ITEM===
+TITULO: Africart Madrid — Pareja "Nommo" Dogon, Mali, bronce, H17 cm, 1.200 €
+CATEGORIA: Galería
+RESUMEN: Africart Madrid ofrece figura de pareja Dogon en bronce (Mali, 17×7 cm, €1.200), catalogada como "excepcional". Representa a los gemelos Nommo de la cosmogonía Dogon. Disponible en Madrid.
+URL: https://africartmadrid.es/en/coleccion-articulo/pareja-dogon/
+FUENTE: Africart Madrid
+FECHA: 05 Jun 2026
+===FIN===
+
+===ITEM===
+TITULO: Bernard Dulon cat.2026 nº3 — objetos Congo s.XIX a precios asequibles
+CATEGORIA: Galería
+RESUMEN: Galerie Bernard Dulon (París) publica catálogo 2026 nº3 para Paris Tribal: serie de objetos congoleños adquiridos en el s.XIX, ofrecidos "a precios muy razonables". Arte ritual del Congo de primera época.
+URL: http://dulonbernard.fr/
+FUENTE: Galerie Bernard Dulon
+FECHA: 12 May 2026
+===FIN===
+
+===ITEM===
+TITULO: David Serra Fine Tribal Art (Barcelona) — cat. Parcours des Mondes 2026
+CATEGORIA: Feria
+RESUMEN: David Serra Fine Tribal Art (Barcelona, est. 1998) prepara catálogo específico para Parcours des Mondes 2026 (8-13 sep, París). La galería participó también en Paris Tribal 2026 y Winter Civilisations Bruselas.
+URL: https://davidserra.es/en/parcours-des-mondes-2026/
+FUENTE: David Serra Fine Tribal Art
+FECHA: 05 Jun 2026
+===FIN===
+
+===ITEM===
+TITULO: David Serra — Marioneta Kébé Kébé Kuyu (Congo), ex-Josef Müller y Barbier-Mueller
+CATEGORIA: Galería
+RESUMEN: David Serra (Barcelona) ofrece marioneta Kébé Kébé de la sociedad Eouya (Kuyu, República del Congo, fin s.XIX–ppio.s.XX, madera y pigmentos, 48cm). Ex-col. Josef Müller (Suiza) → Barbier-Mueller Museum → Christie's Londres 1979 → col. Costa Romero, España.
+URL: https://davidserra.es/en/galeria_slide/
+FUENTE: David Serra Fine Tribal Art
+FECHA: 05 Jun 2026
+===FIN===
