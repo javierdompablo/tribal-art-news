@@ -1230,3 +1230,84 @@ URL: https://www.duran-subastas.com/es/subasta-lote/x/657-1508
 FUENTE: Durán Arte y Subastas
 FECHA: 25 Jun 2026
 ===FIN===
+
+===ITEM===
+TITULO: Claes Gallery — "Africa Legacy: Cradle of Art", Bruselas, sep–nov 2026
+CATEGORIA: Exposición
+RESUMEN: Didier Claes organiza en Espace Vanderborght (Bruselas, 4 sep–1 nov 2026) una gran exposición colectiva con ~100 obras africanas clásicas y contemporáneas de colecciones privadas e institucionales.
+URL: https://www.didierclaes.com/
+FUENTE: Claes Gallery / Espace Vanderborght
+FECHA: 04 Sep 2026
+===FIN===
+
+===ITEM===
+TITULO: Montagut Gallery — Figura Djennenke (Mali, s.XIII, 86 cm) — TEFAF 2026
+CATEGORIA: Feria
+RESUMEN: Galería Montagut (Barcelona) presentó en TEFAF Maastricht 2026 (mar.) una figura ancestral Djennenke (Mali, s.XIII, madera, 86cm), ex-col. Allan Stone, junto a ~30 piezas de oro Baule y Ashanti.
+URL: https://www.tribalartmagazine.com/en/blog/tefaf-in-maastricht-n111
+FUENTE: Tribal Art Magazine / TEFAF
+FECHA: 14 Mar 2026
+===FIN===
+
+===ITEM===
+TITULO: Lucas Ratton — Figura Songye "Kalebwe ya Ntambwe" (66 cm) — TEFAF 2026
+CATEGORIA: Feria
+RESUMEN: Lucas Ratton (París) presentó en TEFAF 2026 una excepcional figura de poder Songye estilo Kalebwe ya Ntambwe (RDC, madera, metal, fibra, 66cm), inédita en el mercado, en su 11ª participación en la feria.
+URL: https://www.tribalartmagazine.com/en/blog/tefaf-in-maastricht-n111
+FUENTE: Tribal Art Magazine / TEFAF
+FECHA: 14 Mar 2026
+===FIN===
+
+===ITEM===
+TITULO: Máscara Fang ex-Exposición Internacional 1931 (€120.000) — Parcours 2025
+CATEGORIA: Feria
+RESUMEN: Máscara Fang (Gabón) con provenance documentada de la Exposición Internacional de 1931, tasada en €120.000 en Parcours des Mondes 2025 (París, 9-14 sep). Una de las piezas más cotizadas de la feria.
+URL: https://detoursdesmondes.org/2025/09/03/du-9-au-14-septembre-parcours-des-mondes-2025-petit-tour-dhorizon/
+FUENTE: Détours des Mondes / Parcours des Mondes
+FECHA: 09 Sep 2025
+===FIN===
+
+===ITEM===
+TITULO: Figuras relicario Kota (Gabón, s.XIX, €100K-€130K) — Parcours 2025
+CATEGORIA: Feria
+RESUMEN: Galería Laurent Dodier ofreció en Parcours des Mondes 2025 dos figuras guardianas relicario Kota (Gabón, s.XIX, cobre sobre madera), tasadas en €100.000 y €130.000 respectivamente.
+URL: https://singulars.fr/24e-edition-de-parcours-des-mondes-une-passerelle-entre-les-mondes/
+FUENTE: Singulars.fr / Parcours des Mondes
+FECHA: 09 Sep 2025
+===FIN===
+
+===ITEM===
+TITULO: Maternidad "Phemba" Mayombe (RDC) — Galerie Monbrison, Parcours 2025
+CATEGORIA: Feria
+RESUMEN: Galerie Monbrison (París) presentó en Parcours des Mondes 2025 una figura de maternidad Phemba del pueblo Mayombe (región del bajo Congo, RDC), de gran calidad escultórica y uso ritual.
+URL: https://elegancesparisiennes.com/2025/09/16/a-wandering-through-parcours-des-mondes-2025/
+FUENTE: Elégances Parisiennes / Parcours des Mondes
+FECHA: 09 Sep 2025
+===FIN===
+
+===ITEM===
+TITULO: Galerie Flak — ~20 figuras Mumuye (Nigeria, ppio.s.XX) en BRAFA 2025
+CATEGORIA: Feria
+RESUMEN: Galerie Flak (París) presentó en BRAFA 2025 (Bruselas, 26 ene–2 feb) unas 20 figuras antropomorfas Mumuye (noreste de Nigeria, ppio.s.XX, madera con pigmentos) para celebrar sus 20 años de especialización en arte Mumuye.
+URL: https://www.tribalartmagazine.com/en/blog/world-arts-at-the-brafa-art-fair-n109
+FUENTE: Tribal Art Magazine / BRAFA
+FECHA: 26 Ene 2025
+===FIN===
+
+===ITEM===
+TITULO: Figura Ngbandi (Alto Ubangi, RDC) — Didier Claes, Parcours des Mondes 2025
+CATEGORIA: Feria
+RESUMEN: Figura masculina Ngbandi (región del Alto Ubangi, RDC/Sudán, madera con kaolín blanco y escarificaciones incisas) presentada por Didier Claes en Parcours des Mondes 2025, septiembre 2025.
+URL: https://apollo-magazine.com/parcours-des-mondes-paris-2025-preview/
+FUENTE: Apollo Magazine / Parcours des Mondes
+FECHA: 09 Sep 2025
+===FIN===
+
+===ITEM===
+TITULO: Zemanek-Münster subasta 106 — Pájaro Senufo 144cm vendido por €8.200
+CATEGORIA: Subasta
+RESUMEN: Subasta 106 (25 abr 2026, Würzburg): gran escultura pájaro Senufo "porpianong" (C. Marfil, 144cm) vendida por €8.200. Máscara Fang con cuernos (Camerún) €4.400; figura Suku/Yaka (RDC) €3.900.
+URL: https://tribalart.de/en/a/auction-106/
+FUENTE: Zemanek-Münster
+FECHA: 25 Abr 2026
+===FIN===
