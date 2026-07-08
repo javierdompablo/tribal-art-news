@@ -1375,3 +1375,30 @@ URL: https://tribalart.de/en/a/auction-106/
 FUENTE: Zemanek-Münster
 FECHA: 25 Abr 2026
 ===FIN===
+
+===ITEM===
+TITULO: Figura guardiana Fang ex-Renou bate récord en Christie's París (3,8M€)
+CATEGORIA: Subasta
+RESUMEN: Analisis de Apollo Magazine (29 jun 2026): la figura guardiana Fang de Gabón, ex colección Maurice Renou, alcanzó 3,8 M€ en Christie's París (3 jun 2026), récord mundial para una estatuilla Fang.
+URL: https://apollo-magazine.com/fang-sculpture-market-african-classical-art/
+FUENTE: Apollo Magazine
+FECHA: 29 Jun 2026
+===FIN===
+
+===ITEM===
+TITULO: Colección Blum en Christie's París: reposacabezas Luba y récord máscara Dan
+CATEGORIA: Subasta
+RESUMEN: Dos ventas de arte africano y oceánico en Christie's París (19 jun 2026) sumaron 5,96 M€: un reposacabezas Luba Shankadi (RDC) logró 661.500€ y una máscara Dan (Costa de Marfil) marcó récord mundial con 721.500€.
+URL: https://www.artkhade.com/fr/articles/572/resultats-des-ventes-d-art-africain-et-oceanien-de-christie-s
+FUENTE: Artkhade
+FECHA: 19 Jun 2026
+===FIN===
+
+===ITEM===
+TITULO: Quai Branly: "1913-1923, l'esprit du temps" sobre el nacimiento del arte africano
+CATEGORIA: Exposición
+RESUMEN: Exposición en el Musée du quai Branly (hasta 20 sep 2026) sobre cómo máscaras y esculturas de África y Oceanía fueron reconocidas como obras de arte en el París de esa década.
+URL: https://m.quaibranly.fr/en/exhibitions-and-events/at-the-museum/exhibitions/event-details/e/1913-1923-lesprit-du-temps
+FUENTE: Musée du quai Branly - Jacques Chirac
+FECHA: 17 Mar 2026
+===FIN===
