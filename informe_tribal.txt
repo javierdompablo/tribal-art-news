@@ -1402,3 +1402,21 @@ URL: https://m.quaibranly.fr/en/exhibitions-and-events/at-the-museum/exhibitions
 FUENTE: Musée du quai Branly - Jacques Chirac
 FECHA: 17 Mar 2026
 ===FIN===
+
+===ITEM===
+TITULO: Máscara Kpelié Senufo, col. Itzikovitz — Bernard Dulon, Parcours 2026
+CATEGORIA: Feria
+RESUMEN: Galerie Bernard Dulon (París) presentará en Parcours des Mondes 2026 una máscara ritual Kpelié Senufo de finales del s.XIX (Costa de Marfil), colección Max Itzikovitz, con pico de cálao.
+URL: https://apollo-magazine.com/parcours-des-mondes-highlights-2026/
+FUENTE: Apollo Magazine / Galerie Bernard Dulon
+FECHA: 29 Jun 2026
+===FIN===
+
+===ITEM===
+TITULO: Escultura Sapi afro-portuguesa en piedra jabón — La Suite Subastas
+CATEGORIA: Subasta
+RESUMEN: La Suite Subastas incluyó en Diálogos con el Pasado: Vestigia (2 jul 2026) una escultura afro-portuguesa Sapi en piedra jabón (Sierra Leona/Congo), estimada en 1.000-2.000€.
+URL: https://www.suitesubastas.com/www/subasta?codSubasta=121
+FUENTE: La Suite Subastas
+FECHA: 02 Jul 2026
+===FIN===
