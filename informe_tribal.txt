@@ -1420,3 +1420,30 @@ URL: https://www.suitesubastas.com/www/subasta?codSubasta=121
 FUENTE: La Suite Subastas
 FECHA: 02 Jul 2026
 ===FIN===
+
+===ITEM===
+TITULO: Máscara Pwo Tchokwe (Angola, región Mwakahila) — Setdart venta directa
+CATEGORIA: Subasta
+RESUMEN: Máscara Pwo tchokwe, Angola (Mwakahila), ca. 1900, madera y rafia (23x15x10cm). Certificado Arte Primitivo, procedencia colección Pon's. Precio 3.000-3.500€.
+URL: https://www.setdart.com/subasta/displayimage/arte-africano/pid=350995302.html
+FUENTE: Setdart Subastas (Barcelona)
+FECHA: 10 Jul 2026
+===FIN===
+
+===ITEM===
+TITULO: Máscara Guli de los Baule (Costa de Marfil) — Setdart, 600-700€
+CATEGORIA: Subasta
+RESUMEN: Máscara Guli, cultura Baule (Costa de Marfil), en el catálogo permanente de arte africano de Setdart. Estimación 600-700€.
+URL: https://www.setdart.com/subasta/displayimage/arte-africano/pid=350995320.html
+FUENTE: Setdart Subastas (Barcelona)
+FECHA: 10 Jul 2026
+===FIN===
+
+===ITEM===
+TITULO: Máscara Dan (África Occidental) en catálogo de Setdart, 2.400-2.600€
+CATEGORIA: Subasta
+RESUMEN: Máscara de la etnia Dan (África Occidental) en venta directa del catálogo de arte africano de Setdart, Barcelona. Estimación 2.400-2.600€.
+URL: https://www.setdart.com/subasta/displayimage/arte-africano/pid=350995328.html
+FUENTE: Setdart Subastas (Barcelona)
+FECHA: 10 Jul 2026
+===FIN===
