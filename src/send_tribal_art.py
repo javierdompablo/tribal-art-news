@@ -4,7 +4,7 @@ Tribal Art News — Telegram sender
 Sends at most 1 unseen news item per day.
 Persists seen state in data/state.json and pushes back to git.
 """
-import hashlib, json, os, subprocess, sys, urllib.request, urllib.parse
+import hashlib, json, os, re, subprocess, sys, urllib.request, urllib.parse
 from datetime import date
 
 BOT_TOKEN    = os.environ.get("TELEGRAM_BOT_TOKEN", "")
@@ -44,14 +44,24 @@ def save_state(state):
 def git_commit_push():
     rel = os.path.relpath(STATE_FILE, ROOT)
     original_url = ""
+    auth_url = ""
     if GITHUB_TOKEN:
         result = subprocess.run(
             ["git", "-C", ROOT, "remote", "get-url", "origin"],
             capture_output=True, text=True,
         )
         original_url = result.stdout.strip()
-        auth_url = original_url.replace("https://", f"https://{GITHUB_TOKEN}@")
-        subprocess.run(["git", "-C", ROOT, "remote", "set-url", "origin", auth_url], check=False)
+        # original_url may already have been rewritten (e.g. by a local git
+        # credential proxy via an insteadOf rule) to something that isn't a
+        # plain https://github.com/... URL. Extract the "owner/repo(.git)"
+        # suffix and rebuild a direct, token-authenticated GitHub URL so the
+        # push bypasses any such rewrite.
+        match = re.search(r"github\.com[:/](.+?)(?:\.git)?/?$", original_url)
+        if not match:
+            match = re.search(r"/git/(.+?)(?:\.git)?/?$", original_url)
+        if match:
+            auth_url = f"https://{GITHUB_TOKEN}@github.com/{match.group(1)}.git"
+            subprocess.run(["git", "-C", ROOT, "remote", "set-url", "origin", auth_url], check=False)
 
     subprocess.run(["git", "-C", ROOT, "add", rel], check=False)
     subprocess.run(
