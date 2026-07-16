@@ -1510,3 +1510,12 @@ URL: https://www.galeriamontagut.com/en/african-tribal-art
 FUENTE: Montagut Gallery
 FECHA: 13 Jul 2026
 ===FIN===
+
+===ITEM===
+TITULO: Aínsa (Huesca) une arte tribal africano y arte inclusivo en "Invisibles"
+CATEGORIA: Exposición
+RESUMEN: El Castillo de Aínsa exhibió del 5 al 11 jul 2026 ~20 piezas de arte tribal africano (África Occidental y Central) junto a obra de jóvenes con discapacidad de ArteCor Monegros.
+URL: https://www.noticiasdehuesca.es/2026/07/05/en-ainsa-se-fusiona-el-arte-africano-con-la-inclusion-a-traves-de-la-exposicion-invisibles-habitando-los-margenes/
+FUENTE: Noticias de Huesca / Diputación de Huesca
+FECHA: 05 Jul 2026
+===FIN===
