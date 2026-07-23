@@ -1555,3 +1555,12 @@ URL: https://detoursdesmondes.org/2026/06/19/vente-millon-24-juin-2026/
 FUENTE: Détours des Mondes (sobre venta de Millon)
 FECHA: 19 Jun 2026
 ===FIN===
+
+===ITEM===
+TITULO: Benín crea comité científico para reclamar 35 bienes culturales a Francia
+CATEGORIA: Restitución
+RESUMEN: Cotonou instaló el 14 jul 2026 un Comité Científico Nacional, presidido por Alain Godonou, para negociar con Francia la restitución de 35 nuevos bienes culturales y archivos beninenses.
+URL: https://lanouvelletribune.info/2026/07/france-le-benin-met-en-place-un-comite-pour-recuperer-35-nouveaux-biens-culturels/
+FUENTE: La Nouvelle Tribune
+FECHA: 17 Jul 2026
+===FIN===
